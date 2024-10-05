@@ -1,0 +1,189 @@
+@media(max-width:575px){
+    .navbar-toggler{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .manu-bg ul{
+        flex-direction: row;
+        background-color: aquamarine;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+}
+
+
+@media(min-width:576px) and  (max-width:767px){
+    .banner-text h1{
+        font-size: 30px;
+
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .manu-bg ul{
+        flex-direction: row;
+        background-color: aquamarine;
+    }
+    .port-ovarly h6{
+        font-size: 10px;
+    }
+    .port-botton a{
+        font-size: 13px;
+    }
+    .client-img img{
+        font-size: 60%;
+    }
+    .work-button a{
+        font-size: 12px;
+    }
+    .team-main{
+        margin-left: 50px;
+    }
+    #skill{
+        padding: 50px 0;
+    }
+    .skill-left a{
+        margin-left: 180px;
+    }
+    .skill-img img{
+        margin-top: 30px;
+    }
+    .skill-left p{
+        text-align: center;
+        margin-left: 50px;
+    }
+    .port-item ul{
+        margin-left: 60px;
+    }
+    #blog{
+        padding: 60px 0;
+    }
+   
+    .left-head h3{
+        text-align: center;
+    }
+    .left-inner{
+        margin-left: 80px;
+    }
+    .right-head h3{
+        text-align: center;
+    }
+    .team-head p{
+        font-size: 13px;
+    }
+    .twitter-text h6{
+        font-size: 12px;
+    }
+    .blog-right{
+        margin-left: 130px;
+        margin-bottom: 30px;
+    }
+   .blog-sm{
+    margin-top: 30px;
+   }
+
+ 
+   
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+    /* .navbar-toggler{
+        border: none;
+    } */
+    .banner-text h1{
+        font-size: 35px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .navbar-toggler:hover i{
+        color: #fff;
+    }
+
+    .manu-bg ul{
+        background-color: pink;
+    }
+    .navbar-toggler:hover{
+        border: 2px solid #fff;
+    }
+    .about-head h5{
+        font-size: 19px;
+    }
+    .about-text .about-p{
+        padding: 0 150px;
+    }
+    .work-head p{
+        padding: 10px 80px;
+    }
+    .work-button a{
+        font-size: 13px;
+    }
+    .twitter-text h6{
+        font-size: 12px;
+    }
+    .team-main{
+        margin-left: 50px;
+    }
+    #skill{
+        padding: 50px 0;
+    }
+    .skill-left a{
+        margin-left: 270px;
+    }
+    .skill-img img{
+        margin-top: 30px;
+    }
+    .skill-left p{
+        text-align: center;
+        margin-left: 100px;
+    }
+    .port-item ul{
+        margin-left: 160px;
+    }
+    .blog-sm{
+        margin-top: 30px;
+       }
+    .left-head h3{
+        text-align: center;
+    }
+    .left-inner{
+        margin-left: 150px;
+    }
+    .right-head h3{
+        text-align: center;
+    }
+    .left-main p{
+        padding: 0 80px;
+    }
+    .footer-icon{
+        margin-left: 120px;
+    }
+    .footer-form{
+        margin-left:  120px;
+    }
+
+}
+
+@media(min-width:992px) and (max-width:1199px){
+   
+
+}
+
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
